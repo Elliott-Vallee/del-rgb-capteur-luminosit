@@ -1,5 +1,5 @@
 {
-    "name": "DEL RGB Capteur Luminosité",
+    "name": "DEL Capteur Luminosité",
     "description": "",
     "dependencies": {
         "core": "*",
